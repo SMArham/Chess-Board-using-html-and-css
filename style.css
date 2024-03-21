@@ -1,0 +1,31 @@
+* {
+    background-color: rgb(98, 94, 101);
+  }
+
+  h1{
+    font-size: 60px;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+  }
+  
+  .black {
+    background-color: black;
+    width: 313px;
+    height: 313px;
+    display: inline-block;
+    margin: auto;
+    float: left;
+    text-align: center;
+  }
+  
+  .white {
+    background-color: white;
+    width: 313px;
+    height: 313px;
+    display: inline-block;
+  
+    margin: auto;
+    float: left;
+    text-align: center;
+
+  }
